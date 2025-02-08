@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**HaiderRehman06/HaiderRehman06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to My GitHub Profile!  👋
+Hello there! I'm Haider Rehman, a passionate developer from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and more.
 
 
 ## 🌐 Socials:
